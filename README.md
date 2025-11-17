@@ -1,4 +1,3 @@
-
 ZH　Taiwan 
 # AI救護車設備巡檢系統 --本地端-- V1.0    By Z.W.Y 
 
@@ -25,3 +24,28 @@ ZH　Taiwan
 E-MAIL zheng.wan.yi.kavin@gmail.com
 
 !!本程式禁止營利及商業用途!!
+
+
+EN
+# AI Ambulance Equipment Inspection System --Local Server-- V1.0 By Z.W.Y
+
+--Preparation-- Please install a Python development environment first.
+Install Packages: !pip install fastapi uvicorn python-multipart paddleocr opencv-python
+
+1. Create a folder on the desktop: C:\Users\user\Desktop\NAME
+
+2. Create a folder named [templates] in the folder and load the image: C:\Users\user\Desktop\NAME\templates
+
+3. Use WIN+R to open the command prompt (cmd), specify the target folder: [cd] to specify the project folder address
+
+[cd cd Desktop\NAME] [To confirm whether to switch, type dir to confirm the directory]
+
+4. Start the local server: [uvicorn NAME:app --reload]
+
+--System Webpage-- [http://127.0.0.1:8000]
+
+5. Stop the server: [Ctrl+C] 
+
+For any questions or further details, please contact us via email: zheng.wan.yi.kavin@gmail.com
+
+!!This program is prohibited for commercial or profit-making purposes!!
