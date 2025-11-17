@@ -1,7 +1,7 @@
-# Ambulance-equipment-inspection
-# AI救護車設備巡檢系統 --本地端-- V1.0    By Z.W.Y 
 
-# --前置作業--
+# ZH　Taiwan AI救護車設備巡檢系統 --本地端-- V1.0    By Z.W.Y 
+
+--前置作業--
 請先安裝可運行Python之開發環境
 安裝套件 !pip install fastapi uvicorn python-multipart paddleocr opencv-python
 
