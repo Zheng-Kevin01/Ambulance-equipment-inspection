@@ -27,6 +27,10 @@ ZH　Taiwan
 
 1.行動裝置端可於同局域網內連線上本系統
 
+2.UI介面優化
+
+3.新增單位/人員登入設置及車輛選擇
+
 --行動裝置端--http://192.168.xxx.xxx:8000
 
 --本地端-- http://127.0.0.1:8000
@@ -69,6 +73,10 @@ Ensure your mobile device is connected to the same Wi-Fi network as the server.
 #  V1.5.0 Update Notes 
 
 1. Mobile devices can now connect to this system from within the same local area network.
+
+2. UI interface optimization
+
+3. Added unit/personnel login settings and vehicle selection
 
 --Mobile Devices-- http://192.168.xxx.xxx:8000
 
