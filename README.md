@@ -23,17 +23,27 @@ ZH　Taiwan
 
 5.中止伺服器 [ Ctrl+C ]
 
- # V1.5.0更新內容 
+# 程式運轉
+
+--行動裝置端--http://192.168.xxx.xxx:8000
+
+--本地端-- http://127.0.0.1:8000
+
+# 更新日誌
+
+V1.2.0更新內容 
+
+1.UI介面優化
+
+2.新增更多相片上傳,參考資料相片資料夾化
+
+--V1.5.0更新內容-- 
 
 1.行動裝置端可於同局域網內連線上本系統
 
 2.UI介面優化
 
 3.新增單位/人員登入設置及車輛選擇
-
---行動裝置端--http://192.168.xxx.xxx:8000
-
---本地端-- http://127.0.0.1:8000
 
 
 # 若有未詳盡事項或疑問歡迎聯絡
@@ -70,17 +80,27 @@ Ensure your mobile device is connected to the same Wi-Fi network as the server.
 
 5. Stop the server: [Ctrl+C] 
 
-#  V1.5.0 Update Notes 
+# Program Operation
+
+--Mobile Devices-- http://192.168.xxx.xxx:8000
+
+--Local end--  http://127.0.0.1:8000  
+
+# Update Log
+
+--V1.2.0 Update Notes--
+
+1. UI interface optimization
+
+2. Added more photo uploads and consolidated reference photos into folders
+
+--V1.5.0 Update Notes--
 
 1. Mobile devices can now connect to this system from within the same local area network.
 
 2. UI interface optimization
 
 3. Added unit/personnel login settings and vehicle selection
-
---Mobile Devices-- http://192.168.xxx.xxx:8000
-
---Local end--  http://127.0.0.1:8000  
 
 
 # For any questions or further details, please contact us via 
