@@ -5,7 +5,7 @@
 
 本系統開發目的為協助臺灣本地政府救護單位或民間救護單位,執行器材系統化管理及優化定期巡檢便利性,未來將持續開發同步到雲端及行動裝置應用端
 
---前置作業--
+# 前置作業
 
 請先安裝可運行Python之開發環境
 安裝套件!pip install fastapi uvicorn python-multipart paddleocr opencv-python
@@ -64,7 +64,7 @@ E-MAIL zheng.wan.yi.kavin@gmail.com
 
 The purpose of this system is to assist local government or private emergency medical services units in Taiwan in implementing systematic equipment management and optimizing the convenience of regular inspections. Future development will continue to include cloud and mobile device applications.
 
---Preparation-- 
+# Preparation
 
 Please install a Python development environment first.
 Install Packages: !pip install fastapi uvicorn python-multipart paddleocr opencv-python
