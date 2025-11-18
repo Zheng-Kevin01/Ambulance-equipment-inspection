@@ -1,6 +1,6 @@
 # Ambulance and Fire truck Equipment Inspection System By Z.W.Y
 
-[ZH Taiwan](README.md)
+[ZH Taiwan](README.md) [EN]
 
 ---Latest Version V1.5.0---
 
