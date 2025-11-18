@@ -1,5 +1,7 @@
 ZH　Taiwan 
-# AI救護車設備巡檢系統 --本地端-- V1.5.0   By Z.W.Y 
+# 消防車設備巡檢系統 By Z.W.Y 
+
+---最新版本 V1.5.0---
 
 本系統開發目的為協助臺灣本地政府救護單位或民間救護單位,執行器材系統化管理及優化定期巡檢便利性,未來將持續開發同步到雲端及行動裝置應用端
 
@@ -55,7 +57,9 @@ E-MAIL zheng.wan.yi.kavin@gmail.com
 
 
 EN
-# AI Ambulance Equipment Inspection System --Local Server-- V1.5.0 By Z.W.Y
+# Fire truck and Ambulance Equipment Inspection System By Z.W.Y
+
+---Latest Version V1.5.0---
 
 The purpose of this system is to assist local government or private emergency medical services units in Taiwan in implementing systematic equipment management and optimizing the convenience of regular inspections. Future development will continue to include cloud and mobile device applications.
 
