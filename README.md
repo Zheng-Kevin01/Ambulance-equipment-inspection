@@ -1,5 +1,5 @@
-ZH　Taiwan 
-# 消防車設備巡檢系統 By Z.W.Y 
+--ZH　Taiwan --
+# 救護車和消防車設備巡檢系統 By Z.W.Y 
 
 ---最新版本 V1.5.0---
 
@@ -56,8 +56,9 @@ E-MAIL zheng.wan.yi.kavin@gmail.com
 !!本程式禁止營利及商業用途!!
 
 
-EN
-# Fire truck and Ambulance Equipment Inspection System By Z.W.Y
+
+--EN--
+# Ambulance and Fire truck Equipment Inspection System By Z.W.Y
 
 ---Latest Version V1.5.0---
 
