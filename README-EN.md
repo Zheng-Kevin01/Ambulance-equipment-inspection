@@ -23,8 +23,7 @@ Ensure your mobile device is connected to the same Wi-Fi network as the server.
 
 4. Start the local server:
   [uvicorn NAME:app --host 0.0.0. --reload] or
-  
-  [uvicorn main:app --host 0.0.0.0 --port 8000]
+  [uvicorn NAME:app --host 0.0.0.0 --port 8000]
   
 --System Webpage-- [http://127.0.0.1:8000]
 
