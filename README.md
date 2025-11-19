@@ -10,6 +10,7 @@
 
 請先安裝可運行Python之開發環境
 安裝套件!pip install fastapi uvicorn python-multipart paddleocr opencv-python
+
 請先確認本地WIFI IPv4位址 -- CMD [ipconfig] --
 確保行動裝置端連接和伺服器相同的WIFI
 
