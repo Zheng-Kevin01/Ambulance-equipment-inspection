@@ -21,8 +21,11 @@ Ensure your mobile device is connected to the same Wi-Fi network as the server.
 
 [cd cd Desktop\NAME] [To confirm whether to switch, type dir to confirm the directory]
 
-4. Start the local server: [uvicorn NAME:app --host 0.0.0. --reload]
-
+4. Start the local server:
+  [uvicorn NAME:app --host 0.0.0. --reload] or
+  
+  [uvicorn main:app --host 0.0.0.0 --port 8000]
+  
 --System Webpage-- [http://127.0.0.1:8000]
 
 5. Stop the server: [Ctrl+C] 
