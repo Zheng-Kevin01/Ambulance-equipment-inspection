@@ -23,7 +23,9 @@
 3.使用WIN+R呼叫命令單元cmd,指定目標資料夾[cd]指定專案資料夾位址
 [cd cd Desktop\NAME][若要確認是否切換可輸dir確認目錄]
 
-4.啟動本地端伺服器[uvicorn NAME:app --host 0.0.0. --reload] 
+4.啟動本地端伺服器
+[uvicorn NAME:app --host 0.0.0. --reload] or
+[uvicorn NAME:app --host 0.0.0.0 --port 8000]
 
 5.中止伺服器 [ Ctrl+C ]
 
