@@ -53,7 +53,7 @@ V1.2.0更新內容
 
 
 # 若有未詳盡事項或疑問歡迎聯絡
-E-MAIL zheng.wan.yi.kavin@gmail.com
+E-MAIL zheng.wan.yl.kavin@gmail.com
 
 --本程式僅支援繁體中文版--
 
