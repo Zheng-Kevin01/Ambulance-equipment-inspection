@@ -6,7 +6,7 @@
 
 The purpose of this system is to assist local government or private emergency medical services units in Taiwan in implementing systematic equipment management and optimizing the convenience of regular inspections. Future development will continue to include cloud and mobile device applications.
 
-# Preparation
+## Preparation
 
 Please install a Python development environment first.
 Install Packages: !pip install fastapi uvicorn python-multipart paddleocr opencv-python
@@ -29,7 +29,7 @@ Ensure your mobile device is connected to the same Wi-Fi network as the server.
 
 5. Stop the server: [Ctrl+C] 
 
-# Program Operation
+## Program Operation
 
 --Mobile Devices-- http://192.168.xxx.xxx:8000
 
@@ -53,7 +53,7 @@ Ensure your mobile device is connected to the same Wi-Fi network as the server.
 
 
 # For any questions or further details, please contact us via 
-E-MAIL: zheng.wan.yi.kavin@gmail.com
+E-MAIL: zheng.wan.yl.kavin@gmail.com
 
 --This program only supports Traditional Chinese version--
 
