@@ -6,7 +6,7 @@
 
 本系統開發目的為協助臺灣本地政府救護單位或民間救護單位,執行器材系統化管理及優化定期巡檢便利性,未來將持續開發同步到雲端及行動裝置應用端
 
-# 前置作業
+## 前置作業
 
 請先安裝可運行Python之開發環境
 安裝套件!pip install fastapi uvicorn python-multipart paddleocr opencv-python
@@ -29,7 +29,7 @@
 
 5.中止伺服器 [ Ctrl+C ]
 
-# 程式運轉
+## 程式運轉
 
 --行動裝置端--http://192.168.xxx.xxx:8000
 
